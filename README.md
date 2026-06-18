@@ -2,7 +2,7 @@
 
 # PavanKumar Yadav
 
-### AI Engineer | Data Scientist | Generative AI Engineer
+### AI ML Engineer | Data Scientist | AI Researcher
 
 Building intelligent systems with Machine Learning, Large Language Models, Agentic AI, Retrieval-Augmented Generation, and Data Science.
 
