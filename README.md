@@ -158,6 +158,10 @@ Technology creates value when intelligence is transformed into action.
 I strive to build AI systems that are reliable, scalable, interpretable, and capable of solving meaningful real-world problems.
 
 ---
+## Publications
+* https://arxiv.org/abs/2504.15604
+* https://arxiv.org/abs/2504.15903
+* Python Lib:  https://pypi.org/project/modernbert-doc-cls/
 
 ## Connect
 
