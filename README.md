@@ -127,14 +127,15 @@ Reasoning-Centric AI Research
 
 ## GitHub Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=Pavan-Yadav-git&show_icons=true&hide_border=true" />
 
-```markdown
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Yadav-git&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Yadav-git&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pavan-Yadav-git&hide_border=true)
-```
+
 
 ---
 
