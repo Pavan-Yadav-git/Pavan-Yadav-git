@@ -24,18 +24,18 @@ I am passionate about advancing AI capabilities through research, engineering ex
 
 ## Core Expertise
 
-* Artificial Intelligence
-* Data Science & Analytics
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI Systems
-* Knowledge Graphs
-* Model Context Protocol (MCP)
-* AI Application Development
-* MLOps & Deployment
+➤ Artificial Intelligence
+➤ Data Science & Analytics
+➤ Machine Learning
+➤ Deep Learning
+➤ Natural Language Processing
+➤ Large Language Models (LLMs)
+➤ Retrieval-Augmented Generation (RAG)
+➤ Agentic AI Systems
+➤ Knowledge Graphs
+➤ Model Context Protocol (MCP)
+➤ AI Application Development
+➤ MLOps & Deployment
 
 ---
 
