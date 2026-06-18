@@ -24,10 +24,10 @@ I am passionate about advancing AI capabilities through research, engineering ex
 
 ## Core Expertise
 
-➤ Artificial Intelligence \n
-➤ Data Science & Analytics \n
-➤ Machine Learning \n
-➤ Deep Learning \n
+➤ Artificial Intelligence 
+➤ Data Science & Analytics 
+➤ Machine Learning 
+➤ Deep Learning 
 ➤ Natural Language Processing
 ➤ Large Language Models (LLMs)
 ➤ Retrieval-Augmented Generation (RAG)
