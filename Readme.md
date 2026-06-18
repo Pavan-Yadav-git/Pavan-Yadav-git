@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pavan Kumar Yadav
+# PavanKumar Yadav
 
 ### AI Engineer | Data Scientist | Generative AI Engineer
 
