@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./pavangitfprof.png" alt="Pavankumar Yadav" width="100%">
+</p>
 
 # PavanKumar Yadav
 
