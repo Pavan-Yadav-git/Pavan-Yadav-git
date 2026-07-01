@@ -164,6 +164,7 @@ I strive to build AI systems that are reliable, scalable, interpretable, and cap
 * Python Lib:  https://pypi.org/project/modernbert-doc-cls/
 
 ## Demo link
+The demo is hosted on a free cloud service and may occasionally be inactive/sleeping due to cloud hosting limitations or platform
 1. Computer vision:
 - Deployed on stremlit: https://pothole-detection-system-ww8cfvptdmjz4sepvmcuwy.streamlit.app/
 - Deployed on HF: https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system
