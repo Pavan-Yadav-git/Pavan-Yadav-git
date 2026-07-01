@@ -170,7 +170,7 @@ The demo is hosted on a free cloud service and may occasionally be inactive/slee
 - Deployed on HF: https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system
 - Repository Link computer vision:  https://github.com/Pavan-Yadav-git/pothole-detection-system.git
 
-2. Chatbot: https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot
+2. AgenticAI-Chatbot: https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot
    
 ## Connect
 
