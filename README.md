@@ -165,12 +165,13 @@ I strive to build AI systems that are reliable, scalable, interpretable, and cap
 
 ## Demo link
 The demo is hosted on a free cloud service and may occasionally be inactive/sleeping due to cloud hosting limitations or platform
-1. Computer vision:
+1. sql-database-analytics: https://online-books-analytics-sql.onrender.com/
+2. Computer vision:
 - Deployed on HF: https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system
 - Deployed on stremlit: https://pothole-detection-system-ww8cfvptdmjz4sepvmcuwy.streamlit.app/
 - Repository Link computer vision:  https://github.com/Pavan-Yadav-git/pothole-detection-system.git
 
-2. AgenticAI-Chatbot: https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot
+3. AgenticAI-Chatbot: https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot
    
 ## Connect
 
