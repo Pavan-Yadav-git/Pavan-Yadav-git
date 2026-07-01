@@ -25,7 +25,7 @@ I am passionate about advancing AI capabilities through research, engineering ex
 ---
 
 ## Core Expertise
-
+```
 ➤ Artificial Intelligence 
 ➤ Data Science & Analytics 
 ➤ Machine Learning 
@@ -38,7 +38,7 @@ I am passionate about advancing AI capabilities through research, engineering ex
 ➤ Model Context Protocol (MCP)
 ➤ AI Application Development
 ➤ MLOps & Deployment
-
+```
 ---
 
 ## Technical Stack
