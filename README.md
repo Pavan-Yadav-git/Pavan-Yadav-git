@@ -163,6 +163,14 @@ I strive to build AI systems that are reliable, scalable, interpretable, and cap
 * https://arxiv.org/abs/2504.15903
 * Python Lib:  https://pypi.org/project/modernbert-doc-cls/
 
+## Demo link
+1. Computer vision:
+- Deployed on stremlit: https://pothole-detection-system-ww8cfvptdmjz4sepvmcuwy.streamlit.app/
+- Deployed on HF: https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system
+- Repository Link computer vision:  https://github.com/Pavan-Yadav-git/pothole-detection-system.git
+
+2. Chatbot: https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot
+   
 ## Connect
 
 LinkedIn: www.linkedin.com/in/pavan-yadav-491b05352
