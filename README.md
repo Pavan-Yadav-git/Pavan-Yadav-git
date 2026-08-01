@@ -40,6 +40,35 @@ I am passionate about advancing AI capabilities through research, engineering ex
 ➤ MLOps & Deployment
 ```
 ---
+## Publications
+* https://arxiv.org/abs/2504.15604
+* https://arxiv.org/abs/2504.15903
+* Python Lib:  https://pypi.org/project/modernbert-doc-cls/
+* Portfolio: https://pavanyadav-portfolio1.vercel.app/
+
+## Demo link
+The demo is hosted on a free cloud service and may occasionally be inactive/sleeping due to cloud hosting limitations or platform
+### SQL Database Analytics
+- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/sql-online-book-analytics)
+- [Render Demo](https://online-books-analytics-sql.onrender.com/)
+
+### Computer Vision – Pothole Detection
+- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system)
+- [Streamlit Demo](https://pothole-detection-system-ww8cfvptdmjz4sepvmcuwy.streamlit.app/)
+- [GitHub Repository](https://github.com/Pavan-Yadav-git/pothole-detection-system)
+
+### Agentic AI Chatbot
+- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot)
+   
+## Connect
+
+LinkedIn: www.linkedin.com/in/pavan-yadav-491b05352
+
+Portfolio: https://pavanyadav-portfolio1.vercel.app/
+
+Email: yadavpavankrr@gmail.com
+
+GitHub: https://github.com/Pavan-Yadav-git
 
 ## Technical Stack
 
@@ -156,36 +185,6 @@ My interests extend beyond application development into AI research, particularl
 Technology creates value when intelligence is transformed into action.
 
 I strive to build AI systems that are reliable, scalable, interpretable, and capable of solving meaningful real-world problems.
-
----
-## Publications
-* https://arxiv.org/abs/2504.15604
-* https://arxiv.org/abs/2504.15903
-* Python Lib:  https://pypi.org/project/modernbert-doc-cls/
-
-## Demo link
-The demo is hosted on a free cloud service and may occasionally be inactive/sleeping due to cloud hosting limitations or platform
-### SQL Database Analytics
-- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/sql-online-book-analytics)
-- [Render Demo](https://online-books-analytics-sql.onrender.com/)
-
-### Computer Vision – Pothole Detection
-- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/pothole-detection-system)
-- [Streamlit Demo](https://pothole-detection-system-ww8cfvptdmjz4sepvmcuwy.streamlit.app/)
-- [GitHub Repository](https://github.com/Pavan-Yadav-git/pothole-detection-system)
-
-### Agentic AI Chatbot
-- [Hugging Face Demo](https://huggingface.co/spaces/Pavanyadav-111/pavanchatbot)
-   
-## Connect
-
-LinkedIn: www.linkedin.com/in/pavan-yadav-491b05352
-
-Portfolio: https://pavanyadav-portfolio1.vercel.app/
-
-Email: yadavpavankrr@gmail.com
-
-GitHub: https://github.com/Pavan-Yadav-git
 
 ---
 
